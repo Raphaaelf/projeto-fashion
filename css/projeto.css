@@ -1,0 +1,135 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    background-color: rgb(223, 223, 223);
+}
+
+.hero1{
+    background-image: url(../imagens/topo.jpg);
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    background-position: left;
+}
+
+.hero1 nav ul{
+    background-image: url(../imagens/logo.png);
+    text-align: right;
+    background-color: rgba(19, 18, 73, 0.842);
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: 320px;
+}
+
+.hero1 nav li{
+    text-align: center;
+    display: inline-block;
+    margin-right: 40px;
+    letter-spacing: 5px;
+    padding-top: 18px;
+}
+
+.hero1 nav a{
+    color: rgb(129, 127, 127);
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    
+}
+
+.hero-content{
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 1px;
+    letter-spacing: 5px;
+}
+
+.hero-content p{
+    margin-left: 80px;
+    margin-right: 80px;
+    color: rgb(114, 112, 112);
+    font-size: 23px;
+    letter-spacing: 1px;
+}
+
+.card{
+    margin: 15px;
+}
+.card1{
+    float: left;
+    margin-left: 500px;
+}
+
+.card2{
+    float: left;
+}
+
+.card3{
+    float: left;
+}
+
+.content-section h4{
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: rgb(61, 59, 59);
+}
+
+.content-section p{
+    text-align: center;
+    margin-top: -10px;
+    color: rgba(95, 94, 94, 0.548);
+}
+.hero-content1{
+    background-image: url(../imagens/bg_detalhe.png);
+    clear: both;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    
+}
+
+.content-header h2{
+    color: white;
+    text-align: left;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin-right: 900px;
+    padding: 80px;
+    letter-spacing: 1px;
+}
+
+.hero-content1 p{
+    color: white;
+    text-align: left;
+    text-transform: unset;
+    font-family: sans-serif;
+    padding-top: 10px;
+    margin-top: -70px;
+    margin-left: 80px;
+    margin-right: 1000px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+
+.hero-content2{
+    color: rgb(21, 25, 83);
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.map{
+    text-align: center;
+    
+}
+
+.map p{
+    background-color: rgb(11, 11, 44);
+    height: 50px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    letter-spacing: 4px;
+}
